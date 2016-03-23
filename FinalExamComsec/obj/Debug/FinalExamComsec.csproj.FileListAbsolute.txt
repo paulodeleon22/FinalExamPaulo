@@ -1,0 +1,21 @@
+C:\Users\JHAYBEE\Documents\Visual Studio 2012\Projects\FinalExamComsec\FinalExamComsec\bin\Debug\FinalExamComsec.exe.config
+C:\Users\JHAYBEE\Documents\Visual Studio 2012\Projects\FinalExamComsec\FinalExamComsec\bin\Debug\FinalExamComsec.exe
+C:\Users\JHAYBEE\Documents\Visual Studio 2012\Projects\FinalExamComsec\FinalExamComsec\bin\Debug\FinalExamComsec.pdb
+C:\Users\JHAYBEE\Documents\Visual Studio 2012\Projects\FinalExamComsec\FinalExamComsec\obj\Debug\FinalExamComsec.Form1.resources
+C:\Users\JHAYBEE\Documents\Visual Studio 2012\Projects\FinalExamComsec\FinalExamComsec\obj\Debug\FinalExamComsec.Properties.Resources.resources
+C:\Users\JHAYBEE\Documents\Visual Studio 2012\Projects\FinalExamComsec\FinalExamComsec\obj\Debug\FinalExamComsec.csproj.GenerateResource.Cache
+C:\Users\JHAYBEE\Documents\Visual Studio 2012\Projects\FinalExamComsec\FinalExamComsec\obj\Debug\FinalExamComsec.exe
+C:\Users\JHAYBEE\Documents\Visual Studio 2012\Projects\FinalExamComsec\FinalExamComsec\obj\Debug\FinalExamComsec.pdb
+C:\Users\JHAYBEE\Documents\Visual Studio 2012\Projects\FinalExamComsec\FinalExamComsec\obj\Debug\FinalExamComsec.csprojResolveAssemblyReference.cache
+C:\Users\Paowy\Desktop\FinalExamComsec\FinalExamComsec\bin\Debug\FinalExamComsec.exe.config
+C:\Users\Paowy\Desktop\FinalExamComsec\FinalExamComsec\obj\Debug\FinalExamComsec.exe
+C:\Users\Paowy\Desktop\FinalExamComsec\FinalExamComsec\obj\Debug\FinalExamComsec.pdb
+C:\Users\Paowy\Desktop\FinalExamComsec\FinalExamComsec\bin\Debug\FinalExamComsec.exe
+C:\Users\Paowy\Desktop\FinalExamComsec\FinalExamComsec\bin\Debug\FinalExamComsec.pdb
+C:\Users\Paowy\Desktop\FinalExamComsec\FinalExamComsec\obj\Debug\FinalExamComsec.csprojResolveAssemblyReference.cache
+C:\Users\Paowy\Desktop\FinalExamComsec\FinalExamComsec\obj\Debug\FinalExamComsec.Form1.resources
+C:\Users\Paowy\Desktop\FinalExamComsec\FinalExamComsec\obj\Debug\FinalExamComsec.Properties.Resources.resources
+C:\Users\Paowy\Desktop\FinalExamComsec\FinalExamComsec\obj\Debug\FinalExamComsec.csproj.GenerateResource.Cache
+C:\Users\Paowy\Desktop\de leon finalexam\FinalExamComsec\FinalExamComsec\bin\Debug\FinalExamComsec.exe.config
+C:\Users\Paowy\Desktop\de leon finalexam\FinalExamComsec\FinalExamComsec\obj\Debug\FinalExamComsec.exe
+C:\Users\Paowy\Desktop\de leon finalexam\FinalExamComsec\FinalExamComsec\obj\Debug\FinalExamComsec.pdb
